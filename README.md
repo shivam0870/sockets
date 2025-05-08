@@ -1,3 +1,4 @@
+https://socket.io/docs/v3/emit-cheatsheet/#server-side - cheatsheet 
 # LearnSocket Project
 
 This project demonstrates a simple chat application using Socket.IO, Express, and React.
